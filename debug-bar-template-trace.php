@@ -1,11 +1,11 @@
 <?php
 /*
  Plugin Name: Debug Bar Template Trace
- Plugin URI: http://wordpress.org/extend/plugins/debug-bar-template-trace/
+ Plugin URI: https://github.com/Clorith/wordpress-debug-bar-template-trace/
  Description: Adds a template trace panel to the Debug Bar. Requires the Debug Bar plugin.
- Author: ericlewis
- Version: 0.1.1
- Author URI: http://www.ericandrewlewis.com/
+ Author: Clorith
+ Version: 0.1.2
+ Author URI: http://www.mrstk.net
  */
 
 
