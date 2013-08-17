@@ -15,7 +15,7 @@ I've adapted it to work with WordPress 3.5.1, no other code changes have been ma
 Things to be aware of
 ==================================
 
-The way the plugin is created means it injects a hook into your templates.php file (originally theme.php, this has bene udpated since the 3.3.1 release).
+The way the plugin is created means it injects a hook into your templates.php file (originally theme.php, this has been updated since the 3.3.1 release).
 It will automatically look to do this injection if a new version of WP is discovered as well, alternatively you can manually edit this file.
 
 I only changed the file location so that others may use this plugin as it was removed form the Wordpress repository.
