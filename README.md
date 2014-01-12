@@ -22,3 +22,7 @@ I only changed the file location so that others may use this plugin as it was re
 
 As it was removed, I am presuming the original author does not wish to keep maintaining the plugin, I have therefore bumped the version, and replaced the author details with mine so that people who have issues may get in touch regarding it.
 If you are the original author and disapprove, please feel free to drop me a line.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Clorith/wordpress-debug-bar-template-trace/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
